@@ -1,0 +1,16 @@
+{
+  "name": "string-util",
+  "version": "1.0.0",
+  "private": false,
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Strings"
+  ],
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
